@@ -1,4 +1,4 @@
-## Fala pessoa, seja muito bem-vindo(a)!😃
+## Fala pessoa, eu sou o Vinícius, programador Full Stack!😃
 
 Me chamo Vinícius e tenho 19 anos! Recentemente conclui o curso de Análise e Desenvolvimento de Sistemas pela ETEC de Taboão da Serra, e atualmente estou estudando sobre programação Back-End!
 
@@ -17,7 +17,7 @@ Tenho foco no desenvolvimento de sistemas web atuando como fullstack na criaçã
 ## Fique à vontade para entrar em contato!💻
 <div> 
   <a href="https://www.instagram.com/viniii_sn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "vsgamasan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vsgamasan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinigama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
