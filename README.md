@@ -3,7 +3,7 @@
 Me chamo Vinícius e tenho 19 anos! 
 Recentemente conclui o curso de Análise e Desenvolvimento de Sistemas pela ETEC de Taboão da Serra, e atualmente estou estudando sobre programação Back-End!
 
-Tenho foco no desenvolvimento de sistemas web atuando como fullstack na criação de soluções! Possuo conhecimentos sólidos na trindade web em HTML, CSS e JavaScript, aliadas a minha experiência em bancos de dados, relacionais, como MySQL. Porém, também tenho prática no uso de tecnologias como C#, Laravel, React-Native e Ionic.
+Tenho foco no desenvolvimento de sistemas web atuando como fullstack na criação de soluções! Possuo conhecimentos sólidos na trindade web em HTML, CSS e JavaScript, aliadas a minha experiência em bancos de dados relacionais, como MySQL. Porém, também tenho prática no uso de tecnologias como C#, Laravel, React-Native e Ionic.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
